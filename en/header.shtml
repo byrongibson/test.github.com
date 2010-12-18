@@ -1,0 +1,142 @@
+<HTML>
+<HEAD>
+<TITLE>African Nutrition Society</TITLE>
+<meta name="description" content="#"/>
+<meta name="keywords" content="#"/>
+<meta name="author" content="webcreationuk"/>
+<meta name="language" content="EN"/>
+<meta name="Classification" content="Non-Govenrmental Organisation "/>
+<meta name="copyright" content="answeb.org"/>
+<meta name="robots" content="index, follow"/>
+<meta name="revisit-after" content="7 days"/>
+<meta name="document-classification" content="organisation"/>
+<meta name="document-type" content="Public"/>
+<meta name="document-rating" content="Safe for Kids"/>
+<meta name="document-distribution" content="Global"/>
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=iso-8859-1">
+<link href="style.css" rel="stylesheet" type="text/css" />
+<script src="Scripts/AC_RunActiveContent.js" type="text/javascript"></script>
+</HEAD>
+<BODY onLoad="goforit()">
+<table width="1002" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr>
+    <td align="center" valign="top"><table width="1002" border="0" align="center" cellpadding="0" cellspacing="0">
+      <tr>
+        <td height="22" align="center" valign="top"><table width="298" border="0" align="right" cellpadding="0" cellspacing="0">
+          <tr>
+            <td height="15" align="left" valign="top" class="white_txt"><a href="index.shtml">Home</a> &nbsp;|&nbsp; <a href="sitemap.shtml">Sitemap</a> &nbsp;|&nbsp; <a href="#">Login</a> &nbsp;|&nbsp; <a href="#">Contacts</a> &nbsp;|&nbsp; <a href="#">English</a> &nbsp;|&nbsp; <a href="#">French</a></td>
+          </tr>
+        </table></td>
+      </tr>
+      <tr>
+        <td height="216" align="center" valign="middle"><img src="images/index_01.jpg" width="1002" height="212" border="0"></td>
+      </tr>
+      <tr>
+        <td height="36" align="center" valign="middle"><table width="1002" border="0" align="center" cellpadding="0" cellspacing="0" class="block">
+          <tr>
+            <td width="38">&nbsp;</td>
+            <td width="87" align="center" valign="middle" class="menu"><a href="index.shtml">HOME</a></td>
+            <td align="center" valign="top"><img src="images/index_14.jpg" width="1" height="36"></td>
+            <td width="92" align="center" valign="middle" class="menu"><a href="about_ans.shtml">ABOUT ANS</a></td>
+            <td align="center" valign="top"><img src="images/index_14.jpg" width="1" height="36"></td>
+            <td width="112" align="center" valign="middle" class="menu"><a href="news_events.shtml">NEWS & EVENTS</a></td>
+            <td align="center" valign="top"><img src="images/index_14.jpg" width="1" height="36"></td>
+            <td width="100" align="center" valign="middle" class="menu"><a href="membership.shtml">MEMBERSHIP</a></td>
+            <td align="center" valign="top"><img src="images/index_14.jpg" width="1" height="36"></td>
+            <td width="150" align="center" valign="middle" class="menu"><a href="nutrition_profession.shtml">NUTRITION PROFESSION</a></td>
+            <td align="center" valign="top"><img src="images/index_14.jpg" width="1" height="36"></td>
+            <td width="115" align="center" valign="middle" class="menu"><a href="our_partners.shtml">OUR PARTNERS</a></td>
+            <td align="center" valign="top"><img src="images/index_14.jpg" width="1" height="36"></td>
+            <td width="95" align="center" valign="middle" class="menu"><a href="sponsors.shtml">SPONSORS</a></td>
+            <td align="center" valign="top"><img src="images/index_14.jpg" width="1" height="36"></td>
+            <td width="65" align="center" valign="middle" class="menu"><a href="links.shtml">LINKS</a></td>
+            <td align="center" valign="top"><img src="images/index_14.jpg" width="1" height="36"></td>
+            <td width="75" align="center" valign="middle" class="menu"><a href="journals.shtml">JOURNALS</a></td>
+            <td width="14" align="center" valign="middle"></td>
+          </tr>
+        </table></td>
+      </tr>
+      <tr>
+        <td height="6" align="center" valign="top"></td>
+      </tr>
+      <tr>
+        <td height="10" align="left" valign="middle" style="padding-left:20px;"><script>
+
+/*
+Live Date Script- 
+© Dynamic Drive (www.dynamicdrive.com)
+For full source code, installation instructions, 100's more DHTML scripts, and Terms Of Use,
+visit http://www.dynamicdrive.com
+*/
+
+
+var dayarray=new Array("Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday")
+var montharray=new Array("January","February","March","April","May","June","July","August","September","October","November","December")
+
+function getthedate(){
+var mydate=new Date()
+var year=mydate.getYear()
+if (year < 1000)
+year+=1900
+var day=mydate.getDay()
+var month=mydate.getMonth()
+var daym=mydate.getDate()
+if (daym<10)
+daym="0"+daym
+var hours=mydate.getHours()
+var minutes=mydate.getMinutes()
+var seconds=mydate.getSeconds()
+var dn="AM"
+if (hours>=12)
+dn="PM"
+if (hours>12){
+hours=hours-12
+}
+if (hours==0)
+hours=12
+if (minutes<=9)
+minutes="0"+minutes
+if (seconds<=9)
+seconds="0"+seconds
+//change font size here
+var cdate="<small><font color='000000' face='Arial'><b>"+dayarray[day]+", "+montharray[month]+" "+daym+", "+year+" "+hours+":"+minutes+":"+seconds+" "+dn
++"</b></font></small>"
+if (document.all)
+document.all.clock.innerHTML=cdate
+else if (document.getElementById)
+document.getElementById("clock").innerHTML=cdate
+else
+document.write(cdate)
+}
+if (!document.all&&!document.getElementById)
+getthedate()
+function goforit(){
+if (document.all||document.getElementById)
+setInterval("getthedate()",1000)
+}
+
+</script>
+<span id="clock"></span></td>
+      </tr>
+    </table></td>
+  </tr>
+ <tr>
+    <td align="center" valign="top"><table width="976" border="0" align="center" cellpadding="0" cellspacing="0">
+      <tr>
+        <td align="center" valign="top"><table width="976" border="0" align="center" cellpadding="0" cellspacing="0">
+<!--          <tr>
+            <td width="687" height="234" align="left" valign="top"><script type="text/javascript">
+AC_FL_RunContent( 'codebase','http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=7,0,19,0','width','687','height','234','src','images/header','quality','high','pluginspage','http://www.macromedia.com/go/getflashplayer','movie','images/header' ); //end AC code
+</script><noscript><object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=7,0,19,0" width="687" height="234">
+              <param name="movie" value="images/header.swf">
+              <param name="quality" value="high">
+              <embed src="images/header.swf" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" width="687" height="234"></embed>
+            </object></noscript></td>
+            <td width="7" align="left" valign="top">&nbsp;</td>
+            <td width="282" height="234" align="left" valign="top"><img src="images/index_03.jpg" width="282" height="234" border="0"></td>
+          </tr>
+          <tr>
+            <td height="6" colspan="3" align="left" valign="top"></td>
+		</tr>-->
+          <tr>
+ 

@@ -1,0 +1,429 @@
+<HTML>
+<HEAD>
+<!-- TemplateBeginEditable name="doctitle" -->
+<TITLE>African Nutrition Society</TITLE>
+<!-- TemplateEndEditable -->
+<meta name="description" content="#"/>
+<meta name="keywords" content="#"/>
+<meta name="author" content="webcreationuk"/>
+<meta name="language" content="EN"/>
+<meta name="Classification" content="Non-Govenrmental Organisation "/>
+<meta name="copyright" content="answeb.org"/>
+<meta name="robots" content="index, follow"/>
+<meta name="revisit-after" content="7 days"/>
+<meta name="document-classification" content="organisation"/>
+<meta name="document-type" content="Public"/>
+<meta name="document-rating" content="Safe for Kids"/>
+<meta name="document-distribution" content="Global"/>
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=iso-8859-1">
+<link href="../style.css" rel="stylesheet" type="text/css" />
+<script src="../Scripts/AC_RunActiveContent.js" type="text/javascript"></script>
+<!-- TemplateBeginEditable name="head" --><!-- TemplateEndEditable -->
+</HEAD>
+<BODY onLoad="goforit()">
+<table width="1002" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr>
+    <td align="center" valign="top"><table width="1002" border="0" align="center" cellpadding="0" cellspacing="0">
+      <tr>
+        <td height="22" align="center" valign="top"><table width="298" border="0" align="right" cellpadding="0" cellspacing="0">
+          <tr>
+            <td height="15" align="left" valign="top" class="white_txt"><a href="../index.html">Home</a> &nbsp;|&nbsp; <a href="#">Sitemap</a> &nbsp;|&nbsp; <a href="#">Login</a> &nbsp;|&nbsp; <a href="#">Contacts</a> &nbsp;|&nbsp; <a href="#">English</a> &nbsp;|&nbsp; <a href="#">French</a></td>
+          </tr>
+        </table></td>
+      </tr>
+      <tr>
+        <td height="216" align="center" valign="middle"><img src="../images/index_01.jpg" width="1002" height="212" border="0"></td>
+      </tr>
+      <tr>
+        <td height="36" align="center" valign="middle"><table width="1002" border="0" align="center" cellpadding="0" cellspacing="0" class="block">
+          <tr>
+            <td width="38">&nbsp;</td>
+            <td width="87" align="center" valign="middle" class="menu"><a href="../index.html">HOME</a></td>
+            <td align="center" valign="top"><img src="../images/index_14.jpg" width="1" height="36"></td>
+            <td width="92" align="center" valign="middle" class="menu"><a href="../about_ans.html">ABOUT ANS</a></td>
+            <td align="center" valign="top"><img src="../images/index_14.jpg" width="1" height="36"></td>
+            <td width="112" align="center" valign="middle" class="menu"><a href="../news_events.html">NEWS & EVENTS</a></td>
+            <td align="center" valign="top"><img src="../images/index_14.jpg" width="1" height="36"></td>
+            <td width="100" align="center" valign="middle" class="menu"><a href="../membership.html">MEMBERSHIP</a></td>
+            <td align="center" valign="top"><img src="../images/index_14.jpg" width="1" height="36"></td>
+            <td width="150" align="center" valign="middle" class="menu"><a href="../nutrition_profession.html">NUTRITION PROFESSION</a></td>
+            <td align="center" valign="top"><img src="../images/index_14.jpg" width="1" height="36"></td>
+            <td width="115" align="center" valign="middle" class="menu"><a href="../our_partners.html">OUR PARTNERS</a></td>
+            <td align="center" valign="top"><img src="../images/index_14.jpg" width="1" height="36"></td>
+            <td width="95" align="center" valign="middle" class="menu"><a href="../sponsers.html">SPONSORS</a></td>
+            <td align="center" valign="top"><img src="../images/index_14.jpg" width="1" height="36"></td>
+            <td width="65" align="center" valign="middle" class="menu"><a href="../links.html">LINKS</a></td>
+            <td align="center" valign="top"><img src="../images/index_14.jpg" width="1" height="36"></td>
+            <td width="75" align="center" valign="middle" class="menu"><a href="../journals.html">JOURNALS</a></td>
+            <td width="14" align="center" valign="middle"></td>
+          </tr>
+        </table></td>
+      </tr>
+      <tr>
+        <td height="6" align="center" valign="top"></td>
+      </tr>
+      <tr>
+        <td height="5" align="left" valign="middle" style="padding-left:20px;"><script>
+
+/*
+Live Date Script- 
+© Dynamic Drive (www.dynamicdrive.com)
+For full source code, installation instructions, 100's more DHTML scripts, and Terms Of Use,
+visit http://www.dynamicdrive.com
+*/
+
+
+var dayarray=new Array("Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday")
+var montharray=new Array("January","February","March","April","May","June","July","August","September","October","November","December")
+
+function getthedate(){
+var mydate=new Date()
+var year=mydate.getYear()
+if (year < 1000)
+year+=1900
+var day=mydate.getDay()
+var month=mydate.getMonth()
+var daym=mydate.getDate()
+if (daym<10)
+daym="0"+daym
+var hours=mydate.getHours()
+var minutes=mydate.getMinutes()
+var seconds=mydate.getSeconds()
+var dn="AM"
+if (hours>=12)
+dn="PM"
+if (hours>12){
+hours=hours-12
+}
+if (hours==0)
+hours=12
+if (minutes<=9)
+minutes="0"+minutes
+if (seconds<=9)
+seconds="0"+seconds
+//change font size here
+var cdate="<small><font color='000000' face='Arial'><b>"+dayarray[day]+", "+montharray[month]+" "+daym+", "+year+" "+hours+":"+minutes+":"+seconds+" "+dn
++"</b></font></small>"
+if (document.all)
+document.all.clock.innerHTML=cdate
+else if (document.getElementById)
+document.getElementById("clock").innerHTML=cdate
+else
+document.write(cdate)
+}
+if (!document.all&&!document.getElementById)
+getthedate()
+function goforit(){
+if (document.all||document.getElementById)
+setInterval("getthedate()",1000)
+}
+
+</script>
+<span id="clock"></span></td>
+      </tr>
+    </table></td>
+  </tr>
+  <tr>
+    <td align="center" valign="top"><table width="976" border="0" align="center" cellpadding="0" cellspacing="0">
+      <tr>
+        <td align="center" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td align="left" valign="top"><!-- TemplateBeginEditable name="EditRegion3" -->
+              <table width="690" border="0" align="left" cellpadding="0" cellspacing="0">
+                <tr>
+                  <td height="36" align="left" background="../images/index_07.jpg" class="main_hd" style="padding-left: 26px;">About ANS</td>
+                </tr>
+                <tr>
+                  <td height="174" align="center" valign="top" background="images/index_10.jpg" style="background-repeat:repeat-x; background-color:#E3E3E3;"><table width="95%" border="0" align="center" cellpadding="0" cellspacing="0">
+                      <tr>
+                        <td height="14"></td>
+                      </tr>
+                      <tr>
+                        <td height="14"><p><strong>About the African Nutrition Society</strong><br>
+                                <br>
+                          Established  in 2008, the African Nutrition Society (ANS) is a registered  scientific professional body, a learned society formed by nutritional  scientists, food scientists and other health professionals working in, and with  an interest in the nutrition agenda for Africa. ANS was established as an  umbrella organization among others, to develop and promote the nutrition  profession in Africa and to oversee the Africa nutritional Epidemiology  conferences (ANEC) which have been running since 2002. As a professional  learned society, ANS seeks first and foremost to promote the ideals of food and  nutritional sciences as a subject allied to medicine and central to sound  health policies and the attainment of optimum population health. The interests  of individual members in playing their roles in promoting the nutritional well  being of the communities they serve are therefore paramount. The standards of  scientific training, attainment, research capability and sound professional  practice are essential ingredients of any professional body of repute and ANS  seeks to promote and ensure that its members meet the highest standards of  professional practice. Although established in Africa, membership of ANS is  worldwide and open to nutritionists and other professionals with a genuine  interest in nutrition and how it impacts on human and economic development in  Africa.</p>
+                            <p><strong>ANS Vision</strong><br>
+                              To create a  unified continental nutrition profession of individual members, provide a  continental professional scientific forum, promote training, research and capacity  building in nutrition and contribute to workforce development to meet Africa&rsquo;s  nutrition and health policy agenda. <br>
+                              <br>
+                              <strong>ANS Mission Statement</strong><br>
+                              ANS seeks to  promote collegiality and bring together individuals across Africa and other  parts of the world to work together towards building and promoting the  nutrition profession and practice in Africa. Our ultimate goal is to provide a  home for nutritional scientists and other allied professionals, and contribute  to programmes and projects aimed at improving nutrition in Africa and reducing  the burden of disease.&nbsp; </p>
+                          <p><strong>The Focus of ANS Activities </strong><br>
+                            The ANS seeks to promote professionalism, a strong sense of  belonging and intellectual interactions across all regions, cultures and  languages, provide the best forum for students, graduates and professionals  alike to identify the richness of our cultural diversity as well as discover  the great similarities that exist in our professional interests, shared values  and the nutritional issues we confront in our various countries. This is  achieved by providing a scientific platform for individuals to meet, interact  and form professional collaborations and student networks through a meaningful  scientific dialogue and sharing of best practices. ANS also works to promote  standards of scientific training, attainment, research capability and sound  professional practice and leadership necessary to drive nutrition and health  policy across countries. The means to meeting the goals for these core  activities are embedded in the following core activities: </p>
+                          <ul type="disc">
+                              <li>ANS (ANEC) Conferences and Training       Workshops</li>
+                            <li>ANS News and Events</li>
+                            <li>Development of a professional practice       framework leading to professional registration and accreditation</li>
+                            <li>Curriculum development, harmonisation       and accreditation of nutrition programmes in Africa</li>
+                            <li>Capacity Building and scientific       development projects </li>
+                            <li>Public-private Partnerships and       Linkages with the scientific and academic communities, industry, non-governmental       organisations and international agencies for the benefit of ANS members       and the wider public interest</li>
+                            <li>Publications to promote intellectual       and research outputs across Africa e.g. through relevant and high quality       scholarly articles to be published in the <em>African Journal of Nutrition       (AJN)</em>, ANS&rsquo; official journal</li>
+                          </ul>
+                          <p>We value and rely on a solid scientific basis to  the study and practice of nutrition, integrity, objectivity, inclusiveness and  a strong focus on promoting and developing the nutrition scientists of the  future, whilst tapping into the experience, knowhow and intellectual wisdom of established  and world-renowned scientists to meet our core objectives. &nbsp;&nbsp;&nbsp;We  have developed strong partnerships with other learned bodies and nutrition  foundations and federations in Africa, Europe and North America and hope to  further broaden these links in other parts of the world. We are working to  establish a strong funding base to enable us meet the needs of our members as  well as help us run our planned projects for the promotion of nutritional  science, public health and the public good in Africa. Our members have an  important role to play in tackling the health challenges relating to poverty,  chronic hunger and malnutrition as well as the challenges of chronic  non-communicable diseases in Africa.<br>
+                                <br>
+                            We have forged, and are seeking to broaden  partnerships with international charities, NEPAD, WHO, FAO, the World Bank and  other UN organizations seeking to build intellectual capacity and the health  workforce in Africa. &nbsp;We attach  substantial value to such collaborations and partnerships and hope that we can  extend our influence to add value to the work that these organizations do without  compromising our independence, objectivity and neutrality.</p>
+                          <p><strong>ANS Governance Framework</strong><br>
+                            Although the African Nutrition Society (ANS) is a  registered, independent scientific professional body built on strong core  values. Our values and ethical principles are clearly spelt out in our Articles  of Association, posted on the membership pages of our website. </p>
+                          <p><strong>ANS Annual Report</strong><br>
+                            Past Reports of ANS conference and other activities  are published and disseminated to our partners and sponsors and can be  downloaded from our website.&nbsp; </p>
+                          <p><a href="http://www.nutrition.org.uk/aboutbnf/values/accounts"><strong>ANS Accounts</strong></a> <br>
+                            The audited accounts for ANS activities are kept by  the treasury team and will be made available upon request. We plan to post all  accounts and make them downloadable from our website.&nbsp; <br>
+                            <br>
+                            <strong>External  Relations</strong><br>
+                            ANS values its relations with other scientific  learned societies and international organizations. We  are an affiliate body of the international union of nutritional sciences (IUNS)  whose support has been helpful in our early development. Our other partners  include the Nevin Scrimshaw International Nutrition Foundation (USA) , the  Nutrition Society (UK) and Unilever Global. Other partnerships at an early  stage of development include GAIN and the International Malnutrition Taskforce  (IMTF). We have very strong and close working relationships with the Federation  of African Nutrition Societies (FANUS), Africa Nutrition Leadership Programme  (ANLP and PLAN, the Francophone equivalent) and the African Graduates in  Nutrition Network (AGSNet). We are seeking to expand our external relations and  to develop meaningful partnerships with the federation of European Nutrition  Societies (FENS), the New Development Partnership for African Development  (NEPAD), UN agencies( including WHO, SCN, FAO, World Bank, UNICEF, WFP),  Charities , non-governmental organizations (NGOs) with a nutrition and  development focus as well as industrial partners with whom we share common  values.</p>
+                          <p><strong>ANS Awards and Fellowships</strong><br>
+                                <br>
+                                <strong>The Nevin  Scrimshaw Award</strong><br>
+                            Instituted in 2008, this is a prestigious award  conferred on individuals who have a proven track record of distinguished  services to international nutrition. This award is given in collaboration with  the Nevin Scrimshaw International Nutrition Foundation (NS-INF) in recognition  of Scrimshaw&rsquo;s pioneering work in international nutrition.<br>
+                            <br>
+                            <strong>The ANEC  Award</strong><br>
+                            This is a special award given by the African  Nutrition Society (ANS) to an individual within Africa who has a proven track  record of services to nutrition and health in Africa. Such individuals are  normally nominated by the ANEC host country. <br>
+                            <br>
+                            <strong>Former Recipients of the ANEC Award</strong></p>
+                          <ul>
+                              <li><em>2006: Prof (Emeritus)  Fred Sai, (Ghana) for distinguished services to reproductive health and child  nutrition</em></li>
+                            <li><em>2008: Prof (Emeritus)  Mamdour Gabr (Egypt) for distinguished services to nutrition and health in the  Mediterranean region</em></li>
+                          </ul>
+                          <p><strong>ANEC  Travel Fellowships</strong><br>
+                            ANEC seeks and provides a number of travel  fellowships to enable deserving individuals and especially young scientists  attend ANEC conferences and training workshops. Over the last four years, ANEC  has helped to administer between 40 to 50 travel fellowships. The conditions  for receipt of fellowships are usually spelt out with the fellowship and  conference announcement and are purely based on merit.</p>
+                          <p><strong>ANS  Projects</strong><br>
+                            ANS seeks to build a research and projects portfolio  through the award of a certain percentage of its conference proceeds to the  local organizing committee to undertake a specifically named project and to  report the outcomes to the next conference. To support this process and other  new projects, ANS seeks to identify funding partners to support research and  capacity building projects and activities.</p>
+                          <p><strong>ANS Leadership  Team</strong><br>
+                                <br>
+                                <strong>ANS  President</strong><strong> </strong><br>
+                            The African Nutrition Society is delighted to have  Professor Wilna Oldewage-Theron as its honorary president after Prof. Anna  Lartey who has recently become the President-Elect of the International Union  of Nutritional Sciences (IUNS). </p>
+                          <p><a href="http://www.nutrition.org.uk/aboutbnf/people/trustees"><strong>ANS Board of&nbsp; Trustees</strong></a> <br>
+                            Dr Paul Amuna MB ChB, MMed Sci FRSM, RPHNutr,  consultant, International Nutrition &amp; Public Health, University of  Greenwich UK; Prof. Anna Lartey PhD, IDRC Research Chair in Nutrition for  Health and Socio-Economic Development in Sub-Saharan Africa, University of  Ghana; Rev. Tom Ndanu MPhil, Nutritionist &amp; Biostatistician, University of  Ghana Dental School; Prof. Wilna Oldewage-Theron, Director, Institute of  Sustainable Livelihoods, Vaal University of Technology, South Africa; Dr Habiba  Wassef,&nbsp; PhD, Nutrition Consultant,  Cairo, Egypt; Dr. Francis Bruno Zotor PhD FHEA, RPHNutr, Public Health  Nutritionist, University of Greenwich, UK. </p>
+                          <p><a href="http://www.nutrition.org.uk/aboutbnf/people/bnf-staff"><strong>ANS Support Staff</strong></a> <br>
+                            We have a team of dedicated volunteers who work  alongside the ANS leadership team to support professional development and  administration of the organization. </p>
+                          <p><a href="http://www.nutrition.org.uk/aboutbnf/people/honorary-officers"><strong>ANS Council and Honorary Officers</strong></a> <br>
+                            The Honorary officers of the ANS Council and  regional officers will be elected at the next General Meeting of the ANS to  serve in various capacities for 2 years in the first instance. </p>
+                          <p><a href="http://www.nutrition.org.uk/aboutbnf/people/education-working-groups"><strong>ANS Working Groups</strong></a> </p>
+                          <p><a href="http://www.nutrition.org.uk/aboutbnf/people/scientific-committees"><strong>ANS Scientific Committees</strong></a> <br>
+                            A team of international scientists are often  assembled to serve on the international scientific committee of ANS and ANEC  conferences. The composition of this team varies from conference to conference.</p></td>
+                      </tr>
+                      <tr>
+                        <td height="14">&nbsp;</td>
+                      </tr>
+                  </table></td>
+                </tr>
+              </table>
+            <!-- TemplateEndEditable --></td>
+            <td width="1"></td>
+            <td width="290" valign="top"><table width="282" border="0" align="right" cellpadding="0" cellspacing="0">
+              <tr>
+                <td><img src="../images/index_03.jpg" width="282" height="234" border="0"></td>
+              </tr>
+              <tr>
+                <td height="6" bgcolor="#FFFFFF"></td>
+              </tr>
+              <tr>
+                <td align="center" valign="top" style="background-image:url(../images/index_08.jpg); background-repeat:repeat-x; background-position:top; height:210px;"><table width="266" border="0" align="center" cellpadding="0" cellspacing="0">
+              <tr>
+                <td height="7" align="center" valign="top"></td>
+              </tr>
+              <tr>
+                <td align="center" valign="top"><table width="266" border="0" align="center" cellpadding="0" cellspacing="0">
+                  <tr>
+                    <td align="left" valign="top"><table width="266" border="0" align="left" cellpadding="0" cellspacing="0">
+                        <tr>
+                          <td height="37" align="left" valign="middle" bgcolor="#00923f"><table width="266" border="0" cellspacing="0" cellpadding="0">
+                              <tr>
+                                <td width="21" align="left" valign="top">&nbsp;</td>
+                                <td align="left" valign="top" class="white_hd"><strong>CATEGORIES</strong></td>
+                              </tr>
+                          </table></td>
+                        </tr>
+                        <tr>
+                          <td height="5" align="left" valign="middle" bgcolor="#FFFFFF"></td>
+                        </tr>
+                    </table></td>
+                  </tr>
+                  <tr>
+                    <td height="30" align="left" valign="middle" background="../images/index_12.jpg"><table width="266" border="0" cellspacing="0" cellpadding="0">
+                        <tr>
+                          <td width="21" align="left" valign="top">&nbsp;</td>
+                          <td width="19" align="left" valign="middle"><img src="../images/index_11.jpg" width="10" height="10" border="0" /></td>
+                          <td width="181" align="left" valign="middle"><a href="#">Membership Platform</a></td>
+                        </tr>
+                    </table></td>
+                  </tr>
+                  <tr>
+                    <td height="1" align="left" valign="middle"></td>
+                  </tr>
+                  <tr>
+                    <td height="30" align="left" valign="middle" background="../images/index_12.jpg"><table width="266" border="0" cellspacing="0" cellpadding="0">
+                        <tr>
+                          <td width="21" align="left" valign="top">&nbsp;</td>
+                          <td width="19" align="left" valign="middle"><img src="../images/index_11.jpg" width="10" height="10" border="0" /></td>
+                          <td width="181" align="left" valign="middle"><a href="#">Membership Platform</a></td>
+                        </tr>
+                    </table></td>
+                  </tr>
+                  <tr>
+                    <td height="1" align="left" valign="middle"></td>
+                  </tr>
+                  <tr>
+                    <td height="30" align="left" valign="middle" background="../images/index_12.jpg"><table width="266" border="0" cellspacing="0" cellpadding="0">
+                        <tr>
+                          <td width="21" align="left" valign="top">&nbsp;</td>
+                          <td width="19" align="left" valign="middle"><img src="../images/index_11.jpg" width="10" height="10" border="0" /></td>
+                          <td width="181" align="left" valign="middle"><a href="#">Membership Platform</a></td>
+                        </tr>
+                    </table></td>
+                  </tr>
+                  <tr>
+                    <td height="1" align="left" valign="middle"></td>
+                  </tr>
+                  <tr>
+                    <td height="30" align="left" valign="middle" background="../images/index_12.jpg"><table width="266" border="0" cellspacing="0" cellpadding="0">
+                        <tr>
+                          <td width="21" align="left" valign="top">&nbsp;</td>
+                          <td width="19" align="left" valign="middle"><img src="../images/index_11.jpg" width="10" height="10" border="0" /></td>
+                          <td width="181" align="left" valign="middle"><a href="#">Membership Platform</a></td>
+                        </tr>
+                    </table></td>
+                  </tr>
+                  <tr>
+                    <td height="1" align="left" valign="middle"></td>
+                  </tr>
+                  <tr>
+                    <td height="30" align="left" valign="middle" background="../images/index_12.jpg"><table width="266" border="0" cellspacing="0" cellpadding="0">
+                        <tr>
+                          <td width="21" align="left" valign="top">&nbsp;</td>
+                          <td width="19" align="left" valign="middle"><img src="../images/index_11.jpg" width="10" height="10" border="0" /></td>
+                          <td width="181" align="left" valign="middle"><a href="#">Membership Platform</a></td>
+                        </tr>
+                    </table></td>
+                  </tr>
+                </table></td>
+              </tr>
+              <tr>
+                <td height="7" align="center" valign="top"></td>
+              </tr>
+            </table></td>
+              </tr>
+            </table></td>
+          </tr>
+        </table></td>
+      </tr>
+      <tr>
+        <td height="2" align="center" valign="top"></td>
+      </tr>
+      <tr></tr>
+      <tr></tr>
+      <tr>
+        <td align="center" valign="top"><table width="976" border="0" align="left" cellpadding="0" cellspacing="0">
+          <tr>
+            <td height="36" align="left" valign="top" background="../images/index_07.jpg"><img src="../images/index_06.jpg" width="334" height="36" border="0"></td>
+          </tr>
+          <tr>
+            <td height="174" align="center" valign="top" background="../images/index_10.jpg"><table width="95%" border="0" align="center" cellpadding="0" cellspacing="0">
+              <tr>
+                <td height="14" colspan="5"></td>
+                </tr>
+              <tr>
+                <td width="31%" align="left" valign="top"><table width="100%" border="0" align="right" cellpadding="0" cellspacing="0">
+                  <tr>
+                    <td width="5%" align="left" valign="middle"><img src="../images/index_09.jpg" width="5" height="5" border="0" /></td>
+                    <td width="95%" align="left" valign="middle"><a href="#">The Nutrition Profession in Africa</a></td>
+                  </tr>
+                  <tr>
+                    <td align="left" valign="middle"><img src="../images/index_09.jpg" width="5" height="5" border="0" /></td>
+                    <td align="left" valign="middle"><a href="#">Projects &amp; Programmes</a></td>
+                  </tr>
+                  <tr>
+                    <td align="left" valign="middle"><img src="../images/index_09.jpg" width="5" height="5" border="0" /></td>
+                    <td align="left" valign="middle"><a href="#">Study in African Institutions</a></td>
+                  </tr>
+                  <tr>
+                    <td align="left" valign="middle"><img src="../images/index_09.jpg" width="5" height="5" border="0" /></td>
+                    <td align="left" valign="middle"><a href="#">Leadership Training in Nutrition</a></td>
+                  </tr>
+                  <tr>
+                    <td align="left" valign="middle"><img src="../images/index_09.jpg" width="5" height="5" border="0" /></td>
+                    <td align="left" valign="middle"><a href="#">African Graduates in Nutrition (AGSNet)</a></td>
+                  </tr>
+                </table></td>
+                <td width="1%" align="left" valign="middle"><img src="../images/index_13.jpg" width="1" height="143" border="0"></td>
+                <td width="31%" align="left" valign="top"><table width="100%" border="0" align="right" cellpadding="0" cellspacing="0">
+                  <tr>
+                    <td width="5%" align="left" valign="middle"><img src="../images/index_09.jpg" width="5" height="5" border="0" /></td>
+                    <td width="95%" align="left" valign="middle"><a href="#">The Nutrition Profession in Africa</a></td>
+                  </tr>
+                  <tr>
+                    <td align="left" valign="middle"><img src="../images/index_09.jpg" width="5" height="5" border="0" /></td>
+                    <td align="left" valign="middle"><a href="#">Projects &amp; Programmes</a></td>
+                  </tr>
+                  <tr>
+                    <td align="left" valign="middle"><img src="../images/index_09.jpg" width="5" height="5" border="0" /></td>
+                    <td align="left" valign="middle"><a href="#">Study in African Institutions</a></td>
+                  </tr>
+                  <tr>
+                    <td align="left" valign="middle"><img src="../images/index_09.jpg" width="5" height="5" border="0" /></td>
+                    <td align="left" valign="middle"><a href="#">Leadership Training in Nutrition</a></td>
+                  </tr>
+                  <tr>
+                    <td align="left" valign="middle"><img src="../images/index_09.jpg" width="5" height="5" border="0" /></td>
+                    <td align="left" valign="middle"><a href="#">African Graduates in Nutrition (AGSNet)</a></td>
+                  </tr>
+                </table></td>
+                <td width="1%" align="left" valign="top"><img src="../images/index_13.jpg" width="1" height="143" border="0"></td>
+                <td width="31%" align="left" valign="top"><table width="100%" border="0" align="right" cellpadding="0" cellspacing="0">
+                  <tr>
+                    <td width="5%" align="left" valign="middle"><img src="../images/index_09.jpg" width="5" height="5" border="0" /></td>
+                    <td width="95%" align="left" valign="middle"><a href="#">The Nutrition Profession in Africa</a></td>
+                  </tr>
+                  <tr>
+                    <td align="left" valign="middle"><img src="../images/index_09.jpg" width="5" height="5" border="0" /></td>
+                    <td align="left" valign="middle"><a href="#">Projects &amp; Programmes</a></td>
+                  </tr>
+                  <tr>
+                    <td align="left" valign="middle"><img src="../images/index_09.jpg" width="5" height="5" border="0" /></td>
+                    <td align="left" valign="middle"><a href="#">Study in African Institutions</a></td>
+                  </tr>
+                  <tr>
+                    <td align="left" valign="middle"><img src="../images/index_09.jpg" width="5" height="5" border="0" /></td>
+                    <td align="left" valign="middle"><a href="#">Leadership Training in Nutrition</a></td>
+                  </tr>
+                  <tr>
+                    <td align="left" valign="middle"><img src="../images/index_09.jpg" width="5" height="5" border="0" /></td>
+                    <td align="left" valign="middle"><a href="#">African Graduates in Nutrition (AGSNet)</a></td>
+                  </tr>
+                </table></td>
+              </tr>
+            </table></td>
+          </tr>
+        </table></td>
+      </tr>
+      <tr>
+        <td height="6" align="center" valign="top"></td>
+      </tr>
+    </table></td>
+  </tr>
+  <tr>
+    <td align="center" valign="top"><table width="976" border="0" align="center" cellpadding="0" cellspacing="0">
+      <tr>
+        <td height="3" align="center" valign="top" bgcolor="#00923f"></td>
+      </tr>
+      <tr>
+        <td height="2" align="center" valign="top" bgcolor="#FFFFFF"></td>
+      </tr>
+      <tr>
+        <td height="72" align="center" valign="middle" bgcolor="#f2f1f1"><table width="96%" border="0" align="center" cellpadding="0" cellspacing="0">
+          <tr>
+            <td align="center" valign="top" class="footer"><a href="../index.html">Home</a> &nbsp;|&nbsp; <a href="../about_ans.html">About Us</a> &nbsp;|&nbsp; <a href="../news_events.html">News &amp; Events</a> &nbsp;|&nbsp; <a href="../membership.html">Membership</a> &nbsp;|&nbsp; <a href="../nutrition_profession.html">Nutrition Profession</a> &nbsp;|&nbsp; <a href="../our_partners.html">Our Partners</a> &nbsp;|&nbsp; <a href="../sponsers.html">Sponsors</a> &nbsp;|&nbsp; <a href="../links.html">Links</a> &nbsp;|&nbsp; <a href="../journals.html">Journals</a><br>
+              Copyright &copy; 2010, <strong>African Nutrition Society</strong>. All rights reserved.</td>
+          </tr>
+          <tr>
+            <td align="center" valign="top" class="footer"><a href="http://www.webcreationuk.com" target="_blank">Website Design</a> & <a href="http://www.webcreationuk.com/advancedseo.htm" target="_blank">SEO</a> by <a href="http://www.webcreationuk.com" target="_blank">WebCreationUK</a>&nbsp;</td>
+          </tr>
+        </table></td>
+      </tr>
+      <tr>
+        <td height="6" align="center" valign="top" bgcolor="#FFFFFF"></td>
+      </tr>
+    </table></td>
+  </tr>
+</table>
+</BODY>
+</HTML>
